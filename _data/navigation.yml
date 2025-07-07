@@ -12,7 +12,7 @@ main:
     url: /about/    
 
   - title: "Publications"
-    url: /publications/
+    url: https://ui.adsabs.harvard.edu/public-libraries/93z08aZLRQeyP9diXFnmCg #/publications/
 
   - title: "Teaching"
     url: /teaching/    
