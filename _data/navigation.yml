@@ -18,7 +18,7 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: /cv/
+    url: https://github.com/megan-the-astronomer/cv/blob/main/mreiter_cv.pdf # /cv/
     
   # - title: "CV"
   #   url: /cv-json/
