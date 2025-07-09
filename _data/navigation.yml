@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "About"
-    url: /about/    
+  - title: "Research"
+    url: /research/    
 
   - title: "Publications"
     url: https://ui.adsabs.harvard.edu/public-libraries/93z08aZLRQeyP9diXFnmCg #/publications/
@@ -19,6 +19,9 @@ main:
     
   - title: "CV"
     url: https://github.com/megan-the-astronomer/cv/blob/main/mreiter_cv.pdf # /cv/
+    
+  - title: "Paris2024"
+    url: https://megantheastronomer.wordpress.com/the-role-of-environment-in-planet-formation-meeting-at-the-rice-global-paris-center-december-9-12-2024/
     
   # - title: "CV"
   #   url: /cv-json/
